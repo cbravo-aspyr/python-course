@@ -61,3 +61,10 @@ smaller_table_list.remove(remove_flatb)
 print(smaller_table_list)
 del smaller_table_list[0]
 print(smaller_table_list)
+#sorting
+list_to_sort = ["cars", "trucks", "boats", "suv", "planes"]
+print(list_to_sort)
+list_to_sort.sort()
+print(list_to_sort)
+#lengh of something
+print(len(list_to_sort))
